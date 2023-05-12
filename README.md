@@ -1,1 +1,1 @@
-Proiect: Implementare protocol DHCP folosind doar modulul socket din python
+Project: Implementation of the DHCP protocol using only the socket module in python
